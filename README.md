@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Donaldo Azemaj</h1>
 <h3 align="center">A passionate developer from Albania</h3>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
-  
+
 - 🔭 I’m currently working on **PwC ALbania**
 
 - 👯 I’m looking to collaborate on **.Net or Angular libraires**
